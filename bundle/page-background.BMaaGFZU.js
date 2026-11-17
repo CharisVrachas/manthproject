@@ -1,0 +1,1 @@
+function e(e){let t=document.body,n=t.style.background;return t.style.background=e,()=>{t.style.background=n}}export{e as t};
