@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["bundle/view.Dcnj37G3.js","bundle/BaseLayout.astro_astro_type_script_index_0_lang.Cp3oMI4M.js","bundle/form.Dmozt32h.js"])))=>i.map(i=>d[i]);
+import{a as e}from"./BaseLayout.astro_astro_type_script_index_0_lang.Cp3oMI4M.js";var t={id:`elite-request`,requiresAuth:!1,mount:async(t,n)=>(await e(async()=>{let{mount:e}=await import(`./view.Dcnj37G3.js`);return{mount:e}},__vite__mapDeps([0,1,2]))).mount(t,n)};export{t as default};

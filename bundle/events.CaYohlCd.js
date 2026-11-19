@@ -1,0 +1,1 @@
+var e=`aps:profile-changed`;function t(){window.dispatchEvent(new CustomEvent(e))}function n(t){return window.addEventListener(e,t),()=>window.removeEventListener(e,t)}export{n,t};

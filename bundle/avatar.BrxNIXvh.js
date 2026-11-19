@@ -1,0 +1,1 @@
+import{r as e}from"./files.BLAl7baR.js";import{f as t,p as n}from"./form.Dmozt32h.js";function r(r,i,a,o=`md`){let s=t(`span`,{class:`ui-avatar ui-avatar--${o}`},t(`span`,{class:`ui-avatar__initials`,"aria-hidden":`true`},n(a)));return i&&e(r,i).then(e=>{e&&s.replaceChildren(t(`img`,{class:`ui-avatar__img`,src:e,alt:a?`Photo of ${a}`:`Photo`}))}),s}export{r as t};
